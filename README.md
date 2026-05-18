@@ -1,5 +1,7 @@
 ## sci-llm-wiki
 
+_This is the repository for the article "Beyond Retrieval: Compounding Scientific Extelligence with Artificial Intelligence Wikis" (arXiv, 2026)._
+
 SciLLMWiki is a framework for building persistent scientific memory with Large Language Models. Instead of treating papers, notes, and research questions as isolated chat sessions, it organises scientific context into human-readable markdown pages that preserve provenance, relationships, and accumulated reasoning over time.
 
 The present repository acts as a structured knowledge substrate for AI-assisted research. Agents can ingest sources, link concepts, answer questions from the accumulated context, audit the knowledge graph, and generate literature syntheses, while researchers remain in control of interpretation, validation, and research direction.
