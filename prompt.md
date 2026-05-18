@@ -13,7 +13,7 @@ Before creating anything, ask the researcher these questions. Wait for their ful
 > **Let's set up your research wiki. I need a few details to configure it correctly.**
 >
 > **1. What is your research topic?**
-> Describe it as specifically as you can — field, subfield, the problem you're working on, and the approach you're taking. (Example: "Equivariant graph neural networks for machine-learned interatomic potentials, focusing on hypercomplex algebras.")
+> Describe it as specifically as you can — field, subfield, the problem you're working on, and the approach you're taking. 
 >
 > **2. What is your current thesis statement or central research question?**
 > Even a rough version is fine. This will go in `wiki/overview.md` and evolve over time.
