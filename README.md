@@ -1,8 +1,8 @@
-## sci-llm-wiki
+## SciAI Wiki - Scientific Artificial Intelligence Wikis
 
 _This is the repository for the article "Beyond Retrieval: Compounding Scientific Extelligence with Artificial Intelligence Wikis" (arXiv, 2026)._
 
-SciLLMWiki is a framework for building persistent scientific memory with Large Language Models. Instead of treating papers, notes, and research questions as isolated chat sessions, it organises scientific context into human-readable markdown pages that preserve provenance, relationships, and accumulated reasoning over time.
+SciAI Wiki is a framework for building persistent scientific memory with Large Language Models, building upon [Karpathy's LLM Wiki discussions](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f). Instead of treating papers, notes, and research questions as isolated chat sessions, it organises scientific context into human-readable markdown pages that preserve provenance, relationships, and accumulated reasoning over time.
 
 The present repository acts as a structured knowledge substrate for AI-assisted research. Agents can ingest sources, link concepts, answer questions from the accumulated context, audit the knowledge graph, and generate literature syntheses, while researchers remain in control of interpretation, validation, and research direction.
 
