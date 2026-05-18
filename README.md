@@ -12,3 +12,9 @@ This wiki is designed around specialised agent skills: persistent operational ro
 - **Query** turns the wiki into a reasoning workspace. The agent answers research questions by navigating accumulated context, synthesising cited evidence, surfacing contradictions, and identifying gaps that may become new persistent pages.
 - **Lint** is the maintenance layer. It audits the repository for orphan pages, broken links, schema drift, inconsistent relationships, and stale claims as the knowledge graph evolves.
 - **Review** supports literature synthesis. It builds structured narrative reviews from the ingested wiki context, connecting foundational work, current methods, disagreements, and open problems into manuscript-ready outlines or sections.
+
+## SciAI Wiki overview:
+<img width="1920" alt="SciAI wiki overview" src="https://github.com/user-attachments/assets/43d8c92a-0986-4bdb-b3dc-8b62460dac3b" />
+
+#### SciAI Wiki minimal implementation stylized example (_this repository_):
+<img width="600" alt="SciAI wiki minimal implementation example" src="https://github.com/user-attachments/assets/7eb920a2-c31a-40fd-acdf-1d5847a57340" />
