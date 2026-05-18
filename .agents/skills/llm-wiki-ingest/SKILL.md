@@ -165,7 +165,7 @@ For each major concept the paper touches:
 2. **If it exists**: Add a new subsection or update the existing one. Note which paper supports which claim using `[[paper_id]]` citations. Do not erase prior content.
 3. **If it doesn't exist**: Create it from scratch using the concept schema from `wiki/schema.md`. **IMPORTANT**: Never create synthetic concepts, stub pages, or placeholder pages with no substantive information. If a concept lacks enough detail in the source to populate a meaningful page, do not create it. Instead, note this gap and prompt the user to search for more information about that concept (e.g., "I found mentions of X, Y, and Z, but not enough info to create pages. Could you search for more info about them?").
 
-Concept IDs are `snake_case` noun phrases: `equivariance`, `message_passing`, `hypercomplex_algebra`, `body_order_completeness`.
+Concept IDs are `snake_case` noun phrases: `polylatic_acid`, `nanotechnology`, `multi-head_attention`, `group_theory`.
 
 For each concept page, always include:
 - Definition / intuition
